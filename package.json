@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@runwayml/sdk": "latest",
+    "express": "latest",
+    "cors": "latest"
+  }
+}
